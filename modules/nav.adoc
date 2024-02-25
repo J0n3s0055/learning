@@ -1,0 +1,20 @@
+* xref:home::index.adoc[Home]
+
+* [.separated]#**About**#
+* xref:about::index.adoc[Who I am]
+* xref:about::cv.adoc[Curriculum Vitae]
+* xref::about::experience.adoc[Experience and Travel]
+* xref:about::availability.adoc[Work & Availability]
+* xref:about::contact.adoc[Contact]
+
+
+* [.separated]#**Portfolio**#
+* xref:Learning::index.adoc[Online Learning Resource]
+* xref:portfolio::instructions.adoc[Instructions]
+* Link[Documentation Projects]
+* Link [YouTube Channel]
+
+* xref:portfolio::somethingelse.adoc[Something Else]
+
+* [.separated]#**Blog**#
+* xref:blog::index.adoc[Reflective Writing]

@@ -1,0 +1,5 @@
+name: learning
+title: LuxTech Writing
+version: ~
+nav:
+- modules/ROOT/nav.adoc
