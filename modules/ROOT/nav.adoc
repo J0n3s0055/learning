@@ -3,13 +3,13 @@
 * [.separated]#**About**#
 * xref:about::index.adoc[Who I am]
 * xref:about::cv.adoc[Curriculum Vitae]
-* xref::about::experience.adoc[Experience and Travel]
+* xref:about::experience.adoc[Experience and Travel]
 * xref:about::availability.adoc[Work & Availability]
 * xref:about::contact.adoc[Contact]
 
 
 * [.separated]#**Portfolio**#
-* xref:Learning::index.adoc[Online Learning Resource]
+* xref:learning::index.adoc[Online Learning Resource]
 * xref:portfolio::instructions.adoc[Instructions]
 * Link[Documentation Projects]
 * Link [YouTube Channel]
