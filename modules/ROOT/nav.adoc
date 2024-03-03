@@ -1,4 +1,4 @@
-* xref:home::index.adoc[]
+* xref:home::index.adoc[Home]
 
 * [.separated]#**Online Learning Resource**#
 * xref:index.adoc[Understanding and Querying EU Public Procurement Data]
