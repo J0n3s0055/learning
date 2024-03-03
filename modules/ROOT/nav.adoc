@@ -1,5 +1,4 @@
-* [.separated]#**NPJ Website**#
-* xref:home:index.adoc[]
+* xref:home::index.adoc[]
 
 * [.separated]#**Online Learning Resource**#
 * xref:index.adoc[Understanding and Querying EU Public Procurement Data]
