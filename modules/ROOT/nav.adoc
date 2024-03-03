@@ -1,8 +1,7 @@
-* xref:home::index.adoc[Home]
 
 * [.separated]#**Online Learning Resource**#
 * xref:index.adoc[Understanding and Querying EU Public Procurement Data]
-** xref:/background/background.adoc[Public Procurement background information]
-** xref:/data/data.adoc[Understanding the data]
-** xref:/excel/excel.adoc[Querying the data with Excel]
-** xref:/sparql/sparql.adoc[Querying the data with sparql]
+** xref:/background/background.adoc[Module 1: Public Procurement background information]
+** xref:/data/data.adoc[Module 2: Understanding the data]
+** xref:/excel/excel.adoc[Module 3: Querying the data with Excel]
+** xref:/sparql/sparql.adoc[Module 4: Querying the data with sparql]
