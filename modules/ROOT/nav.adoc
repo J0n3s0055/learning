@@ -12,7 +12,7 @@
 ** xref:/background/process_overview.adoc[Overview of the Public Procurement Process]
 ** xref:/background/process_elements.adoc[Public Procurement Process Elements]
 ** xref:/background/notices.adoc[Public Procurement Notices]
-** xref:/background/vocabs.adoc[Essential Vocabularies for Querying]
+** xref:/background/notices_published.adoc[Notices Schedules]** xref:/background/vocabs.adoc[Essential Vocabularies for Querying]
 ** xref:/background/Glossaries.adoc[Explaining Glossaries]
 ** xref:/background/models.adoc[Public Procurement Conceptual Models]
 ** xref:/background/resources.adoc[Other Helpful Resources for Querying]
@@ -24,9 +24,9 @@
 ** xref:/data/relationships.adoc[Data Relationships]
 ** xref:/data/cardinalities.adoc[Cardinalities]
 ** xref:/data/catagories.adoc[Categories]
-** xref:/data/questions.adoc[Questions]
 ** xref:/data/limitations.adoc[Data Limitations]
 ** xref:/data/examples.adoc[Some Examples]
+** xref:/data/questions.adoc[Questions]
 
 * [.separated]#**Module 3: Querying the data with Excel**#
 ** xref:/excel/intro_excel.adoc[Querying the Data with Excel]

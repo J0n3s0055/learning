@@ -1,1 +1,1 @@
-:doctitle: Querying the data with Excel
+:doctitle: Querying the Data with Excel

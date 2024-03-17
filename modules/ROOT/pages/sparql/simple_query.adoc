@@ -1,0 +1,1 @@
+:doctitle: A simple SPARQL Query
